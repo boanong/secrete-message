@@ -1,11 +1,11 @@
-# GRID ROTATOR
+# SECRETE MESSAGE
 
 ## AUTHOR
 BOANONG JOSHUA 
 [@boanong](https://github.com/boanong)
 
 ## OVERVIEW
-  ![home page](assets/Media/images/preview.PNG)
+  ![home page](assets/media/images/preview.PNG)
 
 
 ## About
@@ -29,19 +29,19 @@ This project was taken as a learning tutorial to help build my JavaScript skills
 ## Clone project
 
 - To get a local copy, follow these simple example steps.
-- Clone this repository with `git@github.com:boanong/grid-rotator.git` using your terminal or command-line.
+- Clone this repository with `git@github.com:boanong/secrete-message.git` using your terminal or command-line.
 
 ## Command-line steps
 
-- $ `git@github.com:boanong/grid-rotator.git`
-- $ `cd grid-rotator`
+- $ `git@github.com:boanong/secrete-message.git`
+- $ `cd secret-handshake`
 - $ `git checkout feature/body`
 
 ## Contributing
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/boanong/grid-rotator/issues)
+Feel free to check the [issues page](https://github.com/boanong/secrete-message/issues)
 
 ## 📝 License (optional)
 
