@@ -5,7 +5,7 @@ BOANONG JOSHUA
 [@boanong](https://github.com/boanong)
 
 ## OVERVIEW
-  ![home page](assets/media/images/preview.PNG)
+  ![home page](assets/media/images/Capture.PNG)
 
 
 ## About

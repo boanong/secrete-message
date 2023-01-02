@@ -1,11 +1,12 @@
 body {
-    background-color: #c9cccc;
+    background-color: #ecf8f0;
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
     margin: 0;
     padding: 5px;
+    font-family: Arial, Helvetica, sans-serif;
   }
   #pagecontainer {
     display: flex;
@@ -13,11 +14,12 @@ body {
     align-items: center;
     justify-content: center;
     margin: 270px auto;
-    width: fit-content;
     gap: 8px;
     padding: 5px 10px;
-    background-color: #adefd1ff;
+    background-color: rgb(205, 180, 248);
     border: #15222f 1px solid;
+    height: 500px;
+    width: 500px;
   }
   
   .input {
@@ -37,7 +39,7 @@ body {
     font-size: 18px;
     padding: 3px 10px;
     background-color: #15222f;
-    color: #f2aa4cff;
+    color: rgb(253, 251, 250);
     border-radius: 4px;
   }
   
